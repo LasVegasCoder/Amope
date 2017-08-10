@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+
+#header{
+    background-color: gold;
+    padding: 20px;
+}
+#content {
+    background-color: white;
+    padding: 20px;
+}
+
+#footer{
+    background-color: green;
+    padding: 20px;
+    color: wheat;
+    text-align: center;
+}
