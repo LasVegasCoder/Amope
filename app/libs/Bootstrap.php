@@ -1,11 +1,11 @@
 <?php
 
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- *
- *
- *  
+ *  @Author 	: Prince Adeyemi
+ *  @Desc	: Amope is a PHP Framework designed to generate a fully working website based on user's specification and design while 
+ 		  focusing on security, durability, portability and availability of data as deemed necessary.  Result is a responsive
+		  dynamic website cross-compability with Mobile Phones, Tablets, iOS, Android and Desktop PCs in a minute.
+ *  @Note	: Dedicated to my mom ─ may her soul R.I.P 
  */
 
 class Bootstrap {
