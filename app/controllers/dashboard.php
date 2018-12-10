@@ -16,7 +16,7 @@ class Dashboard extends Controller {
             header('location: login');
             exit;
         }
-		else{
+	else{
         $this->view->js = array('dashboard/scripts/load.js');
 		}
     }
