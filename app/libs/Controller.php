@@ -9,7 +9,7 @@
 class Controller {
 
     function __construct() {
-		@Session::Init();
+	Session::Init();
          $logged =  isset( $_SESSION['loggedIn'] ) ?  Session::getSession('loggedIn') : [] ;
 		
         $this->view = new View;
